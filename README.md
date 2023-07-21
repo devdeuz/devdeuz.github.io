@@ -1,3 +1,1 @@
-# DEV DEUZ WEBPAGE
-
-https://devdeuz.github.io/
+# https://devdeuz.github.io/
