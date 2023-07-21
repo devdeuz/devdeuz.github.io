@@ -1,3 +1,3 @@
 # DEV DEUZ WEBPAGE
 
-Thats it. :)
+https://devdeuz.github.io/
